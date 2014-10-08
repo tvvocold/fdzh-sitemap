@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://www.fdzh.org/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://star.fdzh.org/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://news.fdzh.org/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://blog.fdzh.org/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+<url>
+  <loc>http://paste.fdzh.org/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+</url>
+
+<url>
+  <loc>http://www.fdzh.org/tag/freedom/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/friends/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/features/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/first/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/bashxian-yi-ke-yi-tong-guo-yumjin-xing-geng-xin-liao/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/fedorazhong-wen-she-qu/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/fedora/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/bush/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/bug/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/urgent-the-bash-bug/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/news-fedora-21-alpha-1-fa-bu/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/fedora-21/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/fedora-shi-shi-yao/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/rss/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/fedora-20-upan-an-zhuang-zhi-nan/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/fedora-20/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.fdzh.org/tag/upan-an-zhuang-fedora/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
